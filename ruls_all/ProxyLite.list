@@ -1,10 +1,14 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,dzkeji.xyz
+DOMAIN-SUFFIX,dzkeji.site
+DOMAIN-SUFFIX,dzkeji.us.kg
+DOMAIN-SUFFIX,dzkeji.be
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,dzkeji
+
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
