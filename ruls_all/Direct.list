@@ -94,10 +94,8 @@ DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
 # Bilibili
-#域名匹配
 DOMAIN,upos-sz-estgoss.bilivideo.com
 DOMAIN,bvc.bilivideo.com
-# 域名后缀匹配
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
