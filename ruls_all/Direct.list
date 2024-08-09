@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,hao123.com
 #bilibili直连
 #域名匹配
 DOMAIN,upos-sz-estgoss.bilivideo.com
+DOMAIN,bvc.bilivideo.com
 # 域名后缀匹配
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 
