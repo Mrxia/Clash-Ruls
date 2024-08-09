@@ -7,13 +7,6 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
-#bilibili直连
-#域名匹配
-DOMAIN,upos-sz-estgoss.bilivideo.com
-DOMAIN,bvc.bilivideo.com
-# 域名后缀匹配
-DOMAIN-SUFFIX,mcdn.bilivideo.cn
-
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
@@ -101,20 +94,25 @@ DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
 # Bilibili
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,bigfun.cn
-DOMAIN-SUFFIX,bigfunapp.cn
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.co
-DOMAIN-SUFFIX,biliintl.co
+#域名匹配
+DOMAIN,upos-sz-estgoss.bilivideo.com
+DOMAIN,bvc.bilivideo.com
+# 域名后缀匹配
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
+;DOMAIN-SUFFIX,acg.tv
+;DOMAIN-SUFFIX,acgvideo.com
+;DOMAIN-SUFFIX,b23.tv
+;DOMAIN-SUFFIX,bigfun.cn
+;DOMAIN-SUFFIX,bigfunapp.cn
+;DOMAIN-SUFFIX,biliapi.com
+;DOMAIN-SUFFIX,biliapi.net
+;DOMAIN-SUFFIX,bilibili.com
+;DOMAIN-SUFFIX,bilibili.co
+;DOMAIN-SUFFIX,biliintl.co
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,bilivideo.cn
+;DOMAIN-SUFFIX,bilivideo.com
+;DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
