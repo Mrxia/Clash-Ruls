@@ -6,6 +6,12 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
+#bilibili直连
+#域名匹配
+DOMAIN,upos-sz-estgoss.bilivideo.com
+# 域名后缀匹配
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
