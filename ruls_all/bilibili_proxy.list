@@ -10,7 +10,6 @@ DOMAIN,broadcast.chat.bilibili.com
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN,bangumi.bilibili.com
 DOMAIN,manga.bilibili.com
-DOMAIN-SUFFIX,acgvideo.com
 IP-CIDR,45.43.32.234/32,no-resolve
 IP-CIDR,103.151.150.0/23,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
