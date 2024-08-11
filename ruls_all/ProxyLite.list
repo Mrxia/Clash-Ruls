@@ -5,9 +5,13 @@ DOMAIN-SUFFIX,dzkeji.xyz
 DOMAIN-SUFFIX,dzkeji.site
 DOMAIN-SUFFIX,dzkeji.us.kg
 DOMAIN-SUFFIX,dzkeji.be
+DOMAIN-SUFFIX,fnyun.eu.org
+DOMAIN-SUFFIX,fnyun.org
+DOMAIN-SUFFIX,mxwljsq.xyz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,dzkeji
+DOMAIN-KEYWORD,fnyun
 
 
 # IP段匹配
