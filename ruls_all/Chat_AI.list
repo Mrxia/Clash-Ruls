@@ -88,3 +88,7 @@ DOMAIN-SUFFIX,www.perplexity.ai
 DOMAIN-KEYWORD,groq
 DOMAIN,console.groq.com
 DOMAIN-SUFFIX,groq.com
+
+#Dify
+DOMAIN-KEYWORD,dify
+DOMAIN-SUFFIX,dify.ai
