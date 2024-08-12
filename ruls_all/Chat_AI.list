@@ -92,3 +92,6 @@ DOMAIN-SUFFIX,groq.com
 #Dify
 DOMAIN,cloud.dify.ai
 DOMAIN-SUFFIX,dify.ai
+
+#stability
+DOMAIN-SUFFIX,stability.ai
