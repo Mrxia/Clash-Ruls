@@ -2,6 +2,31 @@
 
 # MyList
 # 域名后缀匹配
+
+#My-DOMAIN
+DOMAIN,png.dzkeji.xyz
+DOMAIN,bt.dzkeji.xyz
+DOMAIN,love.dzkeji.xyz
+DOMAIN,pdf.dzkeji.xyz
+DOMAIN,nas.dzkeji.xyz
+DOMAIN,npm.dzkeji.xyz
+DOMAIN,tw.cdn-v2.us.kg
+DOMAIN,cloud.dzkeji.xyz
+DOMAIN,chat.dzkeji.xyz
+DOMAIN,www.dzkeji.xyz
+
+#My-Proxy
+DOMAIN,docker.dzkeji.site
+DOMAIN,gh.dzkeji.site
+DOMAIN,alist.cdn-v1.us.kg
+DOMAIN,gemini.cdn-v1.us.kg
+DOMAIN,openai.cdn-v1.us.kg
+DOMAIN,newapi.cdn-v1.us.kg
+DOMAIN,google-translate.cdn-v1.us.kg
+DOMAIN,speedtest.cdn-v1.us.kg
+DOMAIN,short.dzkeji.us.kg
+
+
 DOMAIN,cn.bing.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
@@ -24,7 +49,6 @@ IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
-
 
 
 # 360
