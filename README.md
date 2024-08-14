@@ -13,3 +13,5 @@
 ### sub订阅转换服务
 
 #### [进入订阅转换服务前端](https://subweb.dzkeji.xyz/)→规则模板→点击→输入：https://cdn.jsdelivr.net/gh/Mrxia/clash_ruls@master/xiaodandan.ini
+
+![image-20240814183050944](https://cdn.jsdelivr.net/gh/Mrxia/Image-hosting/images/image-20240814183050944.png)
