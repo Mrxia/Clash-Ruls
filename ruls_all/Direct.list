@@ -3,6 +3,11 @@
 # MyList
 # 域名后缀匹配
 
+#PT
+DOMAIN,www.qingwapt.com
+DOMAIN-SUFFIX,qingwapt.com
+DOMAIN-KEYWORD,qingwapt
+
 #My-DOMAIN
 DOMAIN,mg.dzkeji.site
 DOMAIN,png.dzkeji.xyz
