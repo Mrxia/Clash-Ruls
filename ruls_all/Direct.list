@@ -9,26 +9,30 @@ DOMAIN-SUFFIX,qingwapt.com
 DOMAIN-KEYWORD,qingwapt
 
 #My-DOMAIN
-DOMAIN,mg.dzkeji.site
-DOMAIN,png.dzkeji.xyz
-DOMAIN,bt.dzkeji.xyz
-DOMAIN,pdf.dzkeji.xyz
-DOMAIN,npm.dzkeji.xyz
+DOMAIN,jgw1.dzkj.eu.org
+DOMAIN,jgw2.dzkj.eu.org
+DOMAIN,ymx1.dzkj.eu.org
+DOMAIN,png.dzkji.cn
+DOMAIN,bt.dzkji.cn
+DOMAIN,pdf.dzkji.cn
+DOMAIN,npm.dzkji.cn
 DOMAIN,tw.cdn-v2.us.kg
-DOMAIN,chat.dzkeji.xyz
-DOMAIN,www.dzkeji.xyz
+DOMAIN,www.dzkji.cn
 
 #My-Proxy
-DOMAIN,docker.dzkeji.site
-DOMAIN,gh.dzkeji.site
+DOMAIN,docker.dzkj.eu.org
+DOMAIN,gh.dzkeji.us.kg
 DOMAIN,alist.cdn-v1.us.kg
-DOMAIN,gemini.cdn-v1.us.kg
-DOMAIN,openai.cdn-v1.us.kg
+DOMAIN,proxy.cdn-v1.us.kg
 DOMAIN,newapi.cdn-v1.us.kg
 DOMAIN,google-translate.cdn-v1.us.kg
 DOMAIN,speedtest.cdn-v1.us.kg
 DOMAIN,dzkeji.us.kg
 
+DOMAIN-SUFFIX,dzkj.eu.org
+DOMAIN-SUFFIX,dzkeji.us.kg
+DOMAIN-SUFFIX,cdn-v1.us.kg
+DOMAIN-SUFFIX,cdn-v1.us.kg
 
 DOMAIN,cn.bing.com
 DOMAIN-SUFFIX,time.windows.com
