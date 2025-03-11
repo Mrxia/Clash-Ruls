@@ -7,8 +7,12 @@ DOMAIN-SUFFIX,dzkeji.us.kg
 DOMAIN-SUFFIX,dzkeji.be
 DOMAIN-SUFFIX,mxwljsq.xyz
 
+#交易所
+DOMAIN-SUFFIX,kraken.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,dzkeji
+DOMAIN-KEYWORD,kraken
 
 
 
