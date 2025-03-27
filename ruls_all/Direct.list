@@ -4,51 +4,43 @@
 # 域名后缀匹配
 
 #PT
-DOMAIN,www.qingwapt.com
 DOMAIN-SUFFIX,qingwapt.com
-DOMAIN-KEYWORD,qingwapt
-DOMAIN,pt.soulvoice.club
 DOMAIN-SUFFIX,soulvoice.club
-DOMAIN-KEYWORD,soulvoice
 DOMAIN-SUFFIX,ptzone.xyz
-DOMAIN-KEYWORD,ptzone
 DOMAIN-SUFFIX,rousi.zip
-DOMAIN-KEYWORD,rousi
-DOMAIN,www.ptlover.cc
 DOMAIN-SUFFIX,ptlover.cc
-DOMAIN-KEYWORD,ptlover
 DOMAIN-SUFFIX,xingyunge.top
-DOMAIN-KEYWORD,xingyunge
 DOMAIN-SUFFIX,cspt.top
-DOMAIN-KEYWORD,cspt
 DOMAIN-SUFFIX,hspt.club
-DOMAIN-KEYWORD,hspt
+DOMAIN,kp.m-team.cc
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,ilolicon.com
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN,tracker.icc2022.xyz
+DOMAIN,tracker1.icc2022.de
+DOMAIN,tracker2.icc2022.de
+DOMAIN,tracker3.icc2022.de
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,ptlover.cc
+DOMAIN-SUFFIX,raingfh.top
+DOMAIN-SUFFIX,tmpt.top
+DOMAIN-SUFFIX,zmpt.cc
+DOMAIN-SUFFIX,bitporn.eu
+DOMAIN-SUFFIX,bilibili.download
+DOMAIN-SUFFIX,sewerpt.com
 
 #My-DOMAIN
 DOMAIN,jgw1.dzkj.eu.org
 DOMAIN,jgw2.dzkj.eu.org
 DOMAIN,ymx1.dzkj.eu.org
-DOMAIN,png.dzkji.cn
-DOMAIN,bt.dzkji.cn
-DOMAIN,pdf.dzkji.cn
-DOMAIN,npm.dzkji.cn
-DOMAIN,tw.cdn-v2.us.kg
-DOMAIN,www.dzkji.cn
+DOMAIN,ymx2.dzkj.eu.org
+DOMAIN,mg1.dzkj.eu.org
 
 #My-Proxy
 DOMAIN,docker.dzkj.eu.org
-DOMAIN,gh.dzkeji.us.kg
-DOMAIN,alist.cdn-v1.us.kg
-DOMAIN,proxy.cdn-v1.us.kg
-DOMAIN,newapi.cdn-v1.us.kg
-DOMAIN,google-translate.cdn-v1.us.kg
-DOMAIN,speedtest.cdn-v1.us.kg
-DOMAIN,dzkeji.us.kg
+DOMAIN,gh.dzkj.eu.org
 
 DOMAIN-SUFFIX,dzkj.eu.org
-DOMAIN-SUFFIX,dzkeji.us.kg
-DOMAIN-SUFFIX,cdn-v1.us.kg
-DOMAIN-SUFFIX,cdn-v1.us.kg
 
 DOMAIN,cn.bing.com
 DOMAIN-SUFFIX,time.windows.com
