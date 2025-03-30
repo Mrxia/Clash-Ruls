@@ -14,7 +14,9 @@ DOMAIN-SUFFIX,kraken.com
 DOMAIN-KEYWORD,dzkeji
 DOMAIN-KEYWORD,kraken
 
-
+#PT外站
+DOMAIN-SUFFIX,digitalcore.club
+DOMAIN-SUFFIX,bitporn.eu
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
