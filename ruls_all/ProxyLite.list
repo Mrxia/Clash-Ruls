@@ -1,22 +1,17 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,dzkeji.xyz
-DOMAIN-SUFFIX,dzkeji.site
-DOMAIN-SUFFIX,dzkeji.us.kg
-DOMAIN-SUFFIX,dzkeji.be
-DOMAIN-SUFFIX,mxwljsq.xyz
+
 
 #交易所
 DOMAIN-SUFFIX,kraken.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,dzkeji
 DOMAIN-KEYWORD,kraken
 
 #PT外站
-DOMAIN-SUFFIX,digitalcore.club
-DOMAIN-SUFFIX,bitporn.eu
+DOMAIN,digitalcore.club
+DOMAIN,bitporn.eu
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
