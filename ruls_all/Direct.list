@@ -30,11 +30,7 @@ DOMAIN,bilibili.download
 
 
 #My-DOMAIN
-DOMAIN,jgw1.dzkj.eu.org
-DOMAIN,jgw2.dzkj.eu.org
-DOMAIN,ymx1.dzkj.eu.org
-DOMAIN,ymx2.dzkj.eu.org
-DOMAIN,mg1.dzkj.eu.org
+
 
 #My-Proxy
 DOMAIN,docker.dzkj.eu.org
