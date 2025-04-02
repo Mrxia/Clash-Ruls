@@ -2,6 +2,7 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,dzkj.eu.org
+DOMAIN-SUFFIX,spaceship.com
 
 #交易所
 DOMAIN-SUFFIX,kraken.com
