@@ -36,7 +36,8 @@ DOMAIN,tracker.wintersakura.net
 #My-Proxy
 DOMAIN,docker.dzkj.eu.org
 DOMAIN,gh.dzkj.eu.org
-
+DOMAIN,translate.dzkj.eu.org
+DOMAIN,playful-druid-955e00.netlify.app
 DOMAIN-SUFFIX,dzkj.eu.org
 
 DOMAIN,cn.bing.com
