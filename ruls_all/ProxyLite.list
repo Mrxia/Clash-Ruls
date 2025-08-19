@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,spaceship.com
 DOMAIN,a.nel.cloudflare.com
 DOMAIN,dash.cloudflare.com
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,googleapis
+DOMAIN-SUFFIX,googleapis.com
 #交易所
 DOMAIN-SUFFIX,kraken.com
 
