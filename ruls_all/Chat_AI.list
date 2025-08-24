@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
-
 DOMAIN,gemini.google.com
 DOMAIN,aistudio.google.com
 DOMAIN,auth.openai.com
