@@ -3,7 +3,6 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
-DOMAIN-KEYWORD,google
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
@@ -24,7 +23,7 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,google.com
+
 DOMAIN,gemini.google.com
 DOMAIN,aistudio.google.com
 DOMAIN,auth.openai.com
