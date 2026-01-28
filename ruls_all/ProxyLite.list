@@ -2,6 +2,7 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,spaceship.com
+DOMAIN-SUFFIX,webshare.io
 DOMAIN,a.nel.cloudflare.com
 DOMAIN,dash.cloudflare.com
 DOMAIN-KEYWORD,cloudflare
