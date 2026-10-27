@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,webshare.io
 DOMAIN,a.nel.cloudflare.com
 DOMAIN,dash.cloudflare.com
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,dzkj
+DOMAIN-KEYWORD,dzkji
 
 #交易所
 DOMAIN-SUFFIX,kraken.com
