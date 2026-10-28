@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,b.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
@@ -24,6 +25,8 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
+
+DOMAIN,chat.b.ai
 DOMAIN,gemini.google.com
 DOMAIN,aistudio.google.com
 DOMAIN,auth.openai.com
